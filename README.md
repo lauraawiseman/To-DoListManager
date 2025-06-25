@@ -1,6 +1,6 @@
 # 📋 To-Do List Manager
 
-A simple command-line To-Do List Manager built in Java for Semester 4 – Summer 2025.  
+A simple command-line To-Do List Manager built in Java for a Sprint project in **Datastructures & Algorithms**.
 Each user has their own personal to-do list stored as a singly linked list of tasks. Users are stored in an array.
 
 ## 🛠️ Technologies Used
