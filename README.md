@@ -16,7 +16,7 @@ Each user has their own personal to-do list stored as a singly linked list of ta
 - Add tasks to each user's personal task list
 - Mark tasks as completed
 - View tasks with their completion status
-- Uses a custom singly linked list (no Java `LinkedList`!)
+- Uses a custom singly linked list
 
 ---
 
